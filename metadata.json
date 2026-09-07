@@ -1,0 +1,6 @@
+{
+  "name": "Vyom AI",
+  "description": "Multilingual intelligent assistant with natural language understanding, voice interaction, application & file management, and autonomous execution runtime.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
