@@ -5,7 +5,7 @@ This is the canonical cross-chat handoff for this repository. Read it before mak
 ## Repository
 - Repository: [snchat78-svg/vyom-from-AI-studio](https://github.com/snchat78-svg/vyom-from-AI-studio)
 - Active branch: `main`
-- Current head after continuity documentation: `bde94b3b61a5178dce6d96ffd464fa3cc340be60`
+- Verify the live `main` head each time this file is used; later documentation-only commits can move the branch without validating application code.
 - Phase policy: [PHASE_CONTINUITY_STANDARD.md](PHASE_CONTINUITY_STANDARD.md)
 - Roadmap: [Roadmap.md](Roadmap.md)
 
